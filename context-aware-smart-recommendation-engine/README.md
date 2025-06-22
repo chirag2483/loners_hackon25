@@ -1,4 +1,4 @@
-# Context-Aware Smart Recommendation Engine
+# Context-Aware Smart Recommendation Engine 
  
 Our context-aware smart recommendation engine is designed to solve the problem of endlessly scrolling through content by delivering highly relevant movie and show suggestions. Our solution leverages deep learning techniques to generate personalized recommendations based on rich contextual features. These include the user's current mood, weather conditions, time of day, and other situational factors such as physical state (e.g., healthy or ill), social context (e.g., watching alone, with a partner, family, or friends), and location (e.g., at home or away). By integrating these dynamic inputs, our system delivers content that aligns more meaningfully with the user's present context, enhancing engagement and satisfaction.
 
