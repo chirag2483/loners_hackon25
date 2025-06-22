@@ -51,6 +51,7 @@ https://github.com/user-attachments/assets/725ed610-e68d-40d6-b6a7-92f8a68a8ca9
 
 ## 🧩 Repo Structure
 
+[PrototypeSubmission.pdf](https://github.com/user-attachments/files/20854051/PrototypeSubmission.pdf)
 
 
 ├── 📁 context-aware-smart-recommendation-engine → Context-aware recommender system
