@@ -1,0 +1,31 @@
+field_name,description,data_type,allowed_values,missing_value
+userID,User identifier,int,"15–200",-1
+itemID,Item identifier,int,"1–4138",-1
+rating,User’s rating,int,"1–5",-1
+age,User’s age,int,, -1
+sex,User’s sex,category,"1=male;2=female",-1
+city,User’s city,string,, -1
+country,User’s country,string,, -1
+time,Time of day,category,"1=Morning;2=Afternoon;3=Evening;4=Night",-1
+daytype,Day type,category,"1=Working day;2=Weekend;3=Holiday",-1
+season,Season,category,"1=Spring;2=Summer;3=Autumn;4=Winter",-1
+location,Viewing location,category,"1=Home;2=Public place;3=Friend’s house",-1
+weather,Weather,category,"1=Sunny/clear;2=Rainy;3=Stormy;4=Snowy;5=Cloudy",-1
+social,Social setting,category,"1=Alone;2=My partner;3=Friends;4=Colleagues;5=Parents;6=Public;7=My family",-1
+endEmo,End emotion,category,"1=Sad;2=Happy;3=Scared;4=Surprised;5=Angry;6=Disgusted;7=Neutral",-1
+dominantEmo,Dominant emotion,category,"1=Sad;2=Happy;3=Scared;4=Surprised;5=Angry;6=Disgusted;7=Neutral",-1
+mood,Overall mood,category,"1=Positive;2=Neutral;3=Negative",-1
+physical,Physical state,category,"1=Healthy;2=Ill",-1
+decision,Decision type,category,"1=User decided;2=Assigned by system",-1
+interaction,Interaction count,category,"1=First;2=n-th",-1
+movieDirector,Movie director,string,, -1
+movieCountry,Movie’s country,string,, -1
+movieLanguage,Movie’s language,string,, -1
+movieYear,Movie’s release year,int,, -1
+genre1,Primary genre,category,, -1
+genre2,Secondary genre,category,, -1
+genre3,Tertiary genre,category,, -1
+actor1,Lead actor,string,, -1
+actor2,Second actor,string,, -1
+actor3,Third actor,string,, -1
+budget,Movie budget,float,, -1
