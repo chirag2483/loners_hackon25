@@ -5,7 +5,7 @@ A dual-solution prototype to revolutionize how users **discover** and **watch** 
 ## 👨‍💻 Team Loners
 - **Ansh Gadwal**  
 - **Chirag Paliwal**
-
+  
 > We're passionate builders aiming to bridge the gap between smart recommendations and immersive watch experiences.
 
 ---
@@ -19,6 +19,14 @@ A smart engine that recommends movies based on:
 
 Trained on the LDOS-CoMoDa dataset using a multi-context deep learning pipeline, it offers hyper-personalized movie suggestions tailored to your current vibe.
 
+
+ 
+
+
+https://github.com/user-attachments/assets/8574dd45-e7d5-465a-b5df-2cb95583af22
+
+
+
 ---
 
 ## 🚩 Problem 2: Losing the Joy of Watching Together   
@@ -26,7 +34,18 @@ A real-time, cross-device watch party platform for FireTV and Mobile.
 - One shared remote: anyone can play, pause, or seek  
 - Auto-synced playback for all viewers  
 - Built-in chat with emojis, voice notes, and text  
-- Zero setup: no sign-in, no download, just click and join  
+- Zero set
+
+
+ 
+
+
+
+
+https://github.com/user-attachments/assets/725ed610-e68d-40d6-b6a7-92f8a68a8ca9
+
+
+- 
 
 ---
 
@@ -34,6 +53,6 @@ A real-time, cross-device watch party platform for FireTV and Mobile.
 
 
 
-├── 📁 ContextReco → Context-aware recommender system
+├── 📁 context-aware-smart-recommendation-engine → Context-aware recommender system
 
-├── 📁 FireSync → Watch party app (Frontend + Backend)
+├── 📁 FireSync_main → Watch party app (Frontend + Backend)
